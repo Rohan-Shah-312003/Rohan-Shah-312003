@@ -96,7 +96,7 @@ Change the pitch and tempo of an audio using your hands in real time.
   <a href="https://x.com/aokira31" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://rohan-shah-31.vercel.app/" target="_blank">
+  <a href="https://rohanshah31.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:rohan312003@gmail.com" target="_blank">
