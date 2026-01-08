@@ -4,10 +4,9 @@
 
 I'm a passionate Computer Science Student with a knack for Software Development. I enjoy building innovative solutions and contributing to open-source projects that make a difference.
 
-- 🔭 I'm currently working on creating an Operating System from scratch
+- 🔭 I'm currently working on creating an Incident Response Playbook Recommender
 - 🌱 I'm currently learning Assembly and low level C/C++
 - 📫 How to reach me: rohan312003@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I might be disgustingly educated about guitars and linux
 
 ## 🛠️ Technologies & Tools
