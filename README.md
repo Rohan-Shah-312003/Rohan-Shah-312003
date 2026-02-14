@@ -1,13 +1,13 @@
-# Hi there, I'm Rohan Shah 👋
+# Hi there, I'm Rohan Shah!
 
 ## About Me
 
 I'm a passionate Computer Science Student with a knack for Software Development. I enjoy building innovative solutions and contributing to open-source projects that make a difference.
 
-- 🔭 I'm currently working on creating an Intelligent Incident Response Playbook Recommender
-- 🌱 Recently finished making my own Search Engine
-- 📫 How to reach me: rohan312003@gmail.com
-- ⚡ Fun fact: I might be disgustingly educated about guitars and linux
+- I'm currently working on creating an Intelligent Incident Response Playbook Recommender
+- Recently finished making my own Search Engine
+- How to reach me: rohan312003@gmail.com
+- Fun fact: I might be disgustingly educated about guitars and linux
 
 ## 🛠️ Technologies & Tools
 
@@ -44,49 +44,8 @@ I'm a passionate Computer Science Student with a knack for Software Development.
 ![NeoVim](https://img.shields.io/badge/NeoVim-purple)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohan-Shah-312003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Shah-312003&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rohan-Shah-312003&theme=tokyonight&row=1&column=6" />
-</div>
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan-Shah-312003&theme=tokyonight" />
-</div>
-
-## 📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Shah-312003&theme=tokyo-night" />
-</div>
-
-## 🚀 Featured Projects
-
-### [AI Study Buddy](https://github.com/Rohan-Shah-312003/ai-study-buddy)
-An AI Study Buddy which helps you in revising for exams along with giving tips on how to prepare for exams.
-- **Tech Stack:** NextJS, TailwindCSS, Node.js, Supabase
-- **Features:** Flash Cards, Pomodoro timer, AI quiz
-- ⭐ [Live Demo](https://aistudybuddy31.vercel.app/)
-
-### [Expense Tracker](https://github.com/Rohan-Shah-312003/expense-tracker-web)
-A simple expense tracker which does not require you to log in. You browser cache IS the database. 
-- **Tech Stack:** NextJS, TailwindCSS, NodeJS
-- **Features:** Create a limit along with a progress bar, Set own starting date of month, Transfer your expense tracking data from one device to another using QR code, Donwload the entire data as an excel from the website itself.
-- ⭐ [Live Demo](https://expensetracker31.vercel.app/expense-tracker)
-
-### [Hand Audio Modifier (Under progress)](https://github.com/Rohan-Shah-312003/pitch-shifter)
-Change the pitch and tempo of an audio using your hands in real time.
-- **Tech Stack:** Python3, MediaPipe, Librosa, Soundwire, Pyrubberband, Flask, NextJS, NodeJS
-- **Features:** Change tempo of audio with one hand, Change pitch of the audio with other hand, Upload your own audio to manipulate it.
-<!-- - ⭐ [Live Demo](https://employee-payroll-system-gray.vercel.app/) -->
-
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aokira31/" target="_blank">
