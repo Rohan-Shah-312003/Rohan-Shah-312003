@@ -26,6 +26,6 @@ I enjoy building innovative projects that make a difference.
 </div>
 ---
 
-<div align="center">
-  Thanks for visiting my profile! Have a great day! 😊
+<div>
+  Thanks for visiting my profile! Have a great day!
 </div>
